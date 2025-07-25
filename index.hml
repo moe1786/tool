@@ -658,6 +658,10 @@
                 </div>
                 
                 <!-- Compress PDF -->
+<div class="tool-card" onclick="window.location='/compress-pdf';" style="cursor: pointer;" role="button" tabindex="0" aria-label="Compress PDF tool">
+    <!-- content remains the same -->
+</div>
+
                 <div class="tool-card">
                     <div class="tool-icon">
                         <i class="fas fa-compress-alt"></i>
